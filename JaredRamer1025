@@ -1,0 +1,32 @@
+Executive Summary
+This Unit is about the hardwear of a computer, and how it access data. IEEE
+
+Hardware:HardDrives and memories
+
+a1: The difference between latency and transfer rates: The latency is the speed at which a hardDrive can locate Data as soon as a request for that said data has been made; the time is affected by the RPM of the drive. 
+
+b1: The difference between a typical hardDrive and an SSD is that and SSD cannot store as much information, but it can locate it much faster too, because the data is stored right there and there is almost no time inbetween the time it is requested and when it can be accessed. 
+
+c1: RAM (random access memory) is the "middle man" for the CPU and the HardDrive, but if your RAM memory is too low, the data cannot all be stored on the RAM, so it must remain on the harddrive until the RAM transfers the rest of the data to the CPU, which will then free up some space, and allow the RAM to accept more date from the HardDrive. 
+
+
+ALU and the Control unit
+1a: The control unit recievs the instructions from RAM tells the ALU what type of operation it will be preforming, the ALU will output the information it has processed into a register, that the control unit will activate. IF it is a comparison that the control unit has given to the ALU, then it will "flag" the control unit. 
+
+Hardware: CPU, Input&Output
+1a: The example shows the input being when you scan the item, the CPU of the computer inputs the bar code, then ask for a price and an image of the item that was scanned, this request is sent to the memory, that is then given back to the CPU, which then displays is as an output; adding the price to how much you owe, and image of the scanned item, ect. The data is all proccessed as binary. 
+
+Hardware: Logic Gates and Circuits
+1a: A truth table for the "NAND" gate is a digital logic gate with 2 or more inputs, and 1 output gate that. A "AND" gate is only true when all the inputs are true, and a "NAND" gate is always true except when both inputs are true. 
+
+Hardware: IEEE - Ethically Aligned Design. 
+1a: The point IEEE is to ensure that it is usable by everyone who wants to try it, and that it can be easy and doesn't discriminate, or try to push others away. It will adhear to "Human Rights", "Well being", "Data Agency", "Effectiveness", "Transparency", "Accountability", "Awareness of misuse", and "Competence". 
+This is all very important because it helps guide coders who will build the future to have compassion and do their best to make things accessable to all. 
+
+Data Representation: Numeric Conversions 
+ 1a: binary is a number system based on 1's and 0's. Decimals are just the numbers. and hexadecimals is a numbers system that goes on bases, what ever the number or letter you have is multiplyed by the base. 
+ 
+ Data Representation: Hexadecimal Color Representation 
+1a: #ff016b= vivid pink
+
+1b: If a websites other colors didn't contrast this color enough, it might be very difficult to read. The contrast and shading of different colors needs to be considered when making a website, and those with bad vision may not be able to tell the differecne between two similar colors. 
